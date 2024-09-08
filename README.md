@@ -1,5 +1,5 @@
 # Coffe-website-imersão-Alura
-
+https://coffebuscador.vercel.app/
  Buscador de Cafés Descontraído - Imersão Dev com Google Gemini
 ☕ Sobre a Aplicação
 Esse projeto simples e divertido tem como objetivo te ajudar a encontrar o café perfeito para qualquer ocasião! Com ele, você pode pesquisar por diferentes tipos de café, como cappuccino, latte e muito mais, e descobrir novas receitas e informações interessantes sobre o mundo do café.
