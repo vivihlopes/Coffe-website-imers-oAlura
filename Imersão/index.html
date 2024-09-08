@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/styles.css">
+    <title>My coffe shop</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="cafe.html">Cafés</a></li>
+            <li><a href="receitas.html">Receitas</a></li>
+            <li style="float:right"><a class="active" href="about.html">About</a></li>
+          </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="texto e pesquia">
+            <h1>Power up with coffee</h1>
+            <input type="text" placeholder="Digite o nome do Café" id="campo-pesquisa">
+            <button onclick="pesquisar()">Pesquisar</button>
+        </section>
+            <section class="resultados-pesquisa" id="resultados-pesquisa">
+            </section>
+    </main>
+    <footer>
+        <p>2024 - Cafés do Brasil</p>
+        <p>Entre em contato  pelo email: vitoria@coffe.com.br</p>
+    </footer>
+</body>
+    <script src="dados.js"></script>
+    <script src ="app.js"></script>
+</html>
