@@ -1,0 +1,79 @@
+.about{
+    font-family: "Chakra Petch", sans-serif;
+    background-color: #54372B;
+    margin: 0; /* Remove a margem padrão */
+    padding: 0; /* Remove o padding padrão */
+}
+
+.apresentacao{
+    padding: 5%  15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 82px;
+}
+
+.apresentacao__conteudo{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.apresentacao__conteudo__titulo{
+    text-decoration: none;
+    color: #de9b7f;
+}
+
+.apresentacao__conteudo__texto{
+    text-decoration: none;
+    color: #f5fdff;
+}
+.img {
+    border-radius: 10px;
+  }
+
+  .cabecalho {
+    padding: 2% 0% 0% 80%;
+    background-color: #C08267;
+
+}
+
+li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+  background-color: #9c6c57;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C08267;
+    display: flex;
+    
+  }
+
+  footer {
+    background-color: #C08267; /* Cor de fundo do rodapé */
+    color: #FFFFFF; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+    padding: 0; /* Espaçamento interno */
+    width: 100%; /* Largura total da página */
+    position: fixed; /* Posiciona o rodapé */
+    bottom: 0; /* Alinha ao fundo da página */
+    font-size: 1rem; /* Tamanho da fonte */
+    
+}
