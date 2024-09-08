@@ -1,4 +1,4 @@
-# Coffe-website-imers-oAlura
+# Coffe-website-imersão-Alura
 
  Buscador de Cafés Descontraído - Imersão Dev com Google Gemini
 ☕ Sobre a Aplicação
